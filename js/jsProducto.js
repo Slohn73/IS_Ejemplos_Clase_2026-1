@@ -4,6 +4,8 @@ const productos = [
     {nombre:"Xbox720", precio:30000, img:"https://assetsio.gnwcdn.com/20111005xbox720.jpg?width=1200&height=600&fit=crop&enable=upscale&auto=webp"},
     {nombre:"Playstation 6", precio:30000, img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyKqFPj1wgMdvOOxZDLpREjkMldrRra3MSag&s"},
     {nombre:"Xbox720", precio:30000, img:"https://assetsio.gnwcdn.com/20111005xbox720.jpg?width=1200&height=600&fit=crop&enable=upscale&auto=webp"},
+    {nombre:"Playstation 6", precio:30000, img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyKqFPj1wgMdvOOxZDLpREjkMldrRra3MSag&s"},
+    {nombre:"Xbox720", precio:30000, img:"https://assetsio.gnwcdn.com/20111005xbox720.jpg?width=1200&height=600&fit=crop&enable=upscale&auto=webp"},
     {nombre:"Playstation 6", precio:30000, img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyKqFPj1wgMdvOOxZDLpREjkMldrRra3MSag&s"}
 ];
 
