@@ -54,3 +54,27 @@
     color: #fff;
     background-color: rgb(7, 113, 78);
 }
+
+/* Carrito de compras (Producto)*/
+#carritoLista{
+    list-style: none;
+    padding: 10px;
+    margin: 20px;
+    border: 20 px solid rgb(186, 4, 4);
+    background-color: rgb(13, 41, 41);
+    color: white;
+}
+
+/* Concurrencia */
+pre{
+    text-align: left;
+    background-color: rgb(54, 2, 2);
+    padding: 1rem;
+    border-radius: 10px;
+    width: 80%;
+    color: rgb(45, 15, 199);
+}
+
+button{
+
+}
